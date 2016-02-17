@@ -23,6 +23,7 @@ Hi, the whole reading part is understandable. However, it is not smooth enough. 
 ###12
 * (0:09) video game is so **tired?**, did not clearly hear the key word.* (0:22) "collegue", check the right pronounce(no emphasis on "GUE")
 * You dont need to say the Professor's name, you can just say "a professor devised a video game".
+
 ###13
 * (0:40) I cannot STUDY at home
 
