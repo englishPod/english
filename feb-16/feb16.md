@@ -31,6 +31,7 @@ Hi, the whole reading part is understandable. However, it is not smooth enough. 
 * (0:15) "dormetory", I hear some "S" pronounce in middle of the word.
 * (0:20) we always have class "BEGINNING" at 8
 * (0:25) FEEDING them
+
 ###15
-* (0:19) IS shanghai museum
+* (0:19) ...IS shanghai museum
 
