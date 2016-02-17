@@ -4,7 +4,7 @@ Hi, the whole reading part is understandable. However, it is not smooth enough. 
 ###9
 * Please give emphasis on the key words, I know it is not easy to handle, but try reading the first sentence as, "ACTUALLY, school uniform is the MOST FAVORITE style for student, because it helps us SAVE TIME". 
 * (0:27) use "only thing is WASHING them on weekend"
-* (0:40) emphasis reading on "hard task" 
+* (0:40) emphasis sounding on "hard task" 
 * Give proper breaks on sentences, like "CHOOSING among beautiful jeans || is a HARD TASK for me"
 ###10
 * Listen the first sentence on your emphasis on "PILLOW", which is very understandable! 
