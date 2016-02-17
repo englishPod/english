@@ -6,6 +6,7 @@ Hi, the whole reading part is understandable. However, it is not smooth enough. 
 * (0:27) use "only thing is WASHING them on weekend"
 * (0:40) emphasis sounding on "hard task" 
 * Give proper breaks on sentences, like "CHOOSING among beautiful jeans || is a HARD TASK for me"
+
 ###10
 * Listen the first sentence on your emphasis on "PILLOW", which is very understandable! 
 * (0:21) "bask", not "basket"
