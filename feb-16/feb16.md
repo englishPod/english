@@ -1,6 +1,6 @@
 #Feb16
 ##As a Whole
-Hi, the whole reading part is understandable.
+Hi, the whole reading part is understandable. However, it is not smooth enough. We need more practice, I will company with you.
 ###9
 * Please give emphasis on the key words, I know it is not easy to handle, but try reading the first sentence as, "ACTUALLY, school uniform is the MOST FAVORITE style for student, because it helps us SAVE TIME". 
 * (0:27) use "only thing is WASHING them on weekend"
