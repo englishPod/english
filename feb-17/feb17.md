@@ -10,7 +10,7 @@ There are several unclear pronunciations,
 
 ###17
 * (0:09) great `teaCHers`, you sound like `t-shIRts`
-* (0:17) `fAmout`, wrong pronunciation, `fA(ei)mous`
+* (0:17) `fAmous`, wrong pronunciation, `fA(ei)mous`
 * (0:26) replace `before` with `until`
 
 ###18
