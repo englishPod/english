@@ -10,6 +10,19 @@ if(arrayColl instanceof Collection);
 if(arrayColl instanceof ArrayList);
 ```
 
+* For Collection and Map interfaces, all put,add,construction methods store reference, which means any modification on referenced object also change the state of for example, ArrayList.
+    * Primitive types are immutable, the only way to change value in an index is by remove() then set();
+
+* For generic type, distinguish with generic type of Class, and generic type of Interface. For example:
+```java
+Map<K, Collection<V>> delegate = new TreeMap<>();
+ArrayList<V> valueCollection = new ArrayList<>();
+valueCollection.add(someValue);
+delegate.put(someKey, valueCollection);
+
+```
+It is OK method, because ArrayList implements Collection. If they are inheritance relationship, then can't because in this way, the wildcard must be used.
+
 ## FAQ part
 * Question: What are the reasons behind the dcision to not have a fully generic get method in the interface of `java.util.Map<K,V>`
 
