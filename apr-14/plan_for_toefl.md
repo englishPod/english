@@ -33,8 +33,8 @@
 | 8:30 - 11:00| Practice `TPO10 Speaking` |
 | 11:00 - 12:00| Review `TOEFL Word with Example` book|
 |12:00 - 13:30| Rest|
-|13:30 - 17:00| Finish `TPO20 Reading,Listening,Writing`|
-|17:00 - 19:00| Rest |
+|13:30 - 17:30| Finish `TPO20 Reading,Listening,Writing`|
+|17:30 - 19:00| Rest |
 |19:00 - 21:30 | Correct `TPO20`|
 
 ### April 19 (Tue)
@@ -58,8 +58,8 @@
 | 8:30 - 11:00| Practice `TPO12 Speaking` |
 | 11:00 - 12:00| Review `TOEFL Word with Example` book|
 |12:00 - 13:30| Rest|
-|13:30 - 17:00| Finish `TPO22 Reading,Listening,Writing`|
-|17:00 - 19:00| Rest |
+|13:30 - 17:30| Finish `TPO22 Reading,Listening,Writing`|
+|17:30 - 19:00| Rest |
 |19:00 - 21:30 | Correct `TPO22`|
 
 ### April 21 (Thu)
@@ -83,6 +83,6 @@
 | 8:30 - 10:00| Review and Correct `TPO11 & 12 Speaking`, practice speaking|
 | 10:00 - 12:00| Review `TOEFL Word with Example` book |
 |12:00 - 13:30| Rest|
-|13:30 - 17:00| Finish `TPO23 Reading,Listening,Writing`|
-|17:00 - 19:00| Rest |
+|13:30 - 17:30| Finish `TPO23 Reading,Listening,Writing`|
+|17:30 - 19:00| Rest |
 |19:00 - 21:30 | Correct `TPO23`|
