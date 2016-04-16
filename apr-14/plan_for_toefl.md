@@ -68,7 +68,7 @@
 | 6:00 - 7:30   |  Listen `Scientific American` material |
 | 7:30 - 8:30| Rest|
 | 8:30 - 11:00| Practice `TPO12 Speaking` |
-| 11:00 - 12:00| Practice speaking (any material)|
+| 11:00 - 12:00| Review `TOEFL Word with Example` book|
 |12:00 - 13:30| Rest|
 |13:30 - 16:30| Finish `TPO19 Reading,Listening,Writing`|
 | 16:30 - 17:30| Sport and shower |
