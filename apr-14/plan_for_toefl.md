@@ -78,8 +78,7 @@
 ### April 22 (Fri)
 | Time     | Content     |
 | :------- | :---------- |
-| 6:00 - 7:30   |  Practice `TPO13
-` Speaking |
+| 6:00 - 7:30   |  Practice `TPO13` Speaking |
 | 7:30 - 8:30| Rest|
 | 8:30 - 10:00| Review and Correct `TPO11 & 12 Speaking`, practice speaking|
 | 10:00 - 12:00| Review `TOEFL Word with Example` book |
