@@ -31,7 +31,7 @@
 | 6:00 - 7:30   | Review and Correct `TPO8 & TPO9 speaking material`, practice speaking|
 | 7:30 - 8:30| Rest|
 | 8:30 - 11:00| Practice `TPO10 Speaking` |
-| 11:00 - 12:00| Listen `Wangyi Open course` material|
+| 11:00 - 12:00| Review `TOEFL Word with Example` book|
 |12:00 - 13:30| Rest|
 |13:30 - 17:00| Finish `TPO20 Reading,Listening,Writing`|
 |17:00 - 19:00| Rest |
