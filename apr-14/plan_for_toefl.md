@@ -29,13 +29,12 @@
 | Time     | Content     |
 | :------- | :---------- |
 | 6:00 - 7:30   | Review and Correct `TPO8 & TPO9 speaking material`, practice speaking|
-| 7:30 - 8:30| Rest|
-| 8:30 - 11:00| Practice `TPO10 Speaking` |
-| 11:00 - 12:00| Review `TOEFL Word with Example` book|
-|12:00 - 13:30| Rest|
-|13:30 - 17:30| Finish `TPO20 Reading,Listening,Writing`|
+| 7:30 - 8:00| Rest|
+| 8:00 - 12:00| Finish `TPO19 Reading, Listening, Speaking, Writing`|
+|12:00 - 14:00| Rest|
+|14:00 - 17:30| Correct `TPO20 Speaking,Listening`|
 |17:30 - 19:00| Rest |
-|19:00 - 21:30 | Correct `TPO20`|
+|19:00 - 21:30 | Correct `TPO20 Writing, Reading`|
 
 ### April 19 (Tue)
 | Time     | Content     |
